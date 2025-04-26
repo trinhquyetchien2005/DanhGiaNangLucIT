@@ -13,7 +13,14 @@ int main()
         cout << "Nhap gia tri << i << :";
         cin >> array[i];
     }
-    cout << "So gia tri khong trung lap la: " << checkGiaTriKhongTrungLap(array);
+
+    if(array[] = 0)
+    {
+        cout << "Mang rong";
+    }else
+    {
+        cout << "So gia tri khong trung lap la: " << checkGiaTriKhongTrungLap(array);
+    }
     return 0;
 }
 
